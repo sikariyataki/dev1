@@ -1,1 +1,1 @@
-# Welcome to ContentGuard OpenSource Page
+# ContentGuard OpenSource Page
